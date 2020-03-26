@@ -1,3 +1,6 @@
 [submodule "Software-Eng"]
 	path = Software-Eng
 	url = https://github.com/asalama00/visual.git
+[submodule "Software-Eng1"]
+	path = Software-Eng1
+	url = https://github.com/asalama00/visual.git
